@@ -14,10 +14,12 @@
   
 - What tools and/or resources are you adding to your support network?
 
-  I'm defnitely going to add Texas Instruments' Code Composer Studio to my "toolbox" in case in the future I want to work more with the TI board. Also, the ZyBooks assignments helped me greatly with traversing through this ptoject.
+  I'm defnitely going to add Texas Instruments' Code Composer Studio to my "toolbox" in case in the future I want to work more with the TI board. Also, the ZyBooks assignments helped me greatly with traversing through this project. I also will be utilizing state diagrams more since they have helped me with figuring out the logic portions of my code.
   
 - What skills from this project will be particularly transferable to other projects and/or course work?
 
-  Some skills I will be using for later projects will be 
+  Some skills I will be using for later projects will be state diagram making, 
   
 - How did you make this project maintainable, readable, and adaptable?
+  
+  I made the project more maintainable by splitting up each section of my code that did not belong together, for example, the timer portion and the UART portion I kept separate since they were 2 different functions. I made the code more readable by adding comments and adding spaces between separate functions. Lastly I made the code adaptable by making it easy-to-read and replicate in case someone wanted to enhance it with their own improvements. 
