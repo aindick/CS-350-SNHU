@@ -18,7 +18,7 @@
   
 - What skills from this project will be particularly transferable to other projects and/or course work?
 
-  Some skills I will be using for later projects will be state diagram making, C programming (refreshed C programming knowledge), breaking up the project into smaller, more manageable tasks, and time-management.
+  Some skills I will be using for later projects will be state diagram making, C programming (refreshed C programming knowledge), breaking up the project into smaller tasks, and time-management.
   
 - How did you make this project maintainable, readable, and adaptable?
   
