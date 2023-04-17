@@ -6,11 +6,11 @@
   
 - What did you do particularly well?
 
-  I think personally I did 
+  I think personally I did well on the 
   
 - Where could you improve?
 
-  I could definitely improve
+  I could definitely improve the state machine diagrams. I feel that I made them very confusing and could've made them simpler than what I have now. If I made the diagrams simpler, I probably wouldn't have had such a tough time figuring out what needed to be done on the project.
   
 - What tools and/or resources are you adding to your support network?
 
