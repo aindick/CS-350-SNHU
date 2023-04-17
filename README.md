@@ -1,6 +1,9 @@
 # CS-350-SNHU
 
 - Summarize the project and what problem it was solving.
+
+  The project I worked on was a prototype of a  smart thermostat for a made-up company called SysTec. The problem it solved was to provide SysTec with a prototype thermostat using just a TI board. Eventually, the prototype would lead to an actual smart thermostat that could be used by consumers. The final goal of the project was to be able to send the thermostat data over Wi-Fi also.
+  
 - What did you do particularly well?
 - Where could you improve?
 - What tools and/or resources are you adding to your support network?
