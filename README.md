@@ -6,7 +6,7 @@
   
 - What did you do particularly well?
 
-  I think personally I did well on the 
+  I think personally I did well on the logic parts of the project. For example, it was required to have the buttons on the TI board to increase and decrease depending on if you pressed either one by 1 degree and it required the degree to decrease by 1 every 200ms. I think I did well with setting this up along with the conditional statements for "heat on" and "heat off" and the LEDs "on/off."
   
 - Where could you improve?
 
@@ -14,7 +14,7 @@
   
 - What tools and/or resources are you adding to your support network?
 
-  I'm defnitely going to add Texas Instruments' Code Composer Studio to my "toolbox" in case in the future I want to work more with the TI board.
+  I'm defnitely going to add Texas Instruments' Code Composer Studio to my "toolbox" in case in the future I want to work more with the TI board. Also, the ZyBooks assignments helped me greatly with traversing through this ptoject.
   
 - What skills from this project will be particularly transferable to other projects and/or course work?
 
